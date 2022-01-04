@@ -1,0 +1,6 @@
+{
+    "WebPort": "8081",
+    "RedisAddr": ":6379",
+    "RedisDB": 0
+    
+}

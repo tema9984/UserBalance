@@ -1,0 +1,1 @@
+host=localhost user=art password=art dbname=art sslmode=disable
