@@ -7,7 +7,7 @@
 
 ```
 Метод начисления средств на баланс. Принимает id пользователя и сколько средств зачислить.
-`http://localhost:8081/replenish`
+``http://localhost:8081/replenish``
 POST
 body json: {"user_id":"uid1","balance":1314}
 
